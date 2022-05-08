@@ -4,10 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/taalhach/fiber-web-boiler-plate/internal/server/internal/server/database"
-
 	ini "github.com/nanitor/goini"
-	"github.com/taalhach/fiber-web-boiler-plate/internal/server/internal/server/configs"
+	"github.com/taalhach/fiber-web-boiler-plate/internal/server/configs"
+	"github.com/taalhach/fiber-web-boiler-plate/internal/server/database"
 )
 
 const (

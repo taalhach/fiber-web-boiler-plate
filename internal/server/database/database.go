@@ -3,7 +3,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/taalhach/fiber-web-boiler-plate/internal/server/internal/server/configs"
+	"github.com/taalhach/fiber-web-boiler-plate/internal/server/configs"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

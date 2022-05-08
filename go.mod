@@ -1,4 +1,4 @@
-module github.com/taalhach/fiber-web-boiler-plate/internal/server
+module github.com/taalhach/fiber-web-boiler-plate
 
 go 1.15
 

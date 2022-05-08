@@ -6,7 +6,7 @@ import (
 	"runtime"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/taalhach/fiber-web-boiler-plate/internal/server/pkg/forms"
+	"github.com/taalhach/fiber-web-boiler-plate/pkg/forms"
 )
 
 var customErrHandler = func(c *fiber.Ctx, err error) error {
